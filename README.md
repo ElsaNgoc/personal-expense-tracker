@@ -1,6 +1,6 @@
 # 🧾 Personal Expense Tracker
 
-A simple web app concept to help people **track their personal spending** — my **first Information Systems / Business Analysis project**.
+A simple web app concept to help people **track their personal spending**, and my **first Information Systems / Business Analysis project**.
 
 > **Status:** Concept and planning stage.
 
@@ -10,8 +10,8 @@ Many students and young professionals don't know where their money goes each mon
 
 ## 👤 Target Users
 
-- University students managing a limited budget
-- Young professionals starting to plan their finances
+* University students managing a limited budget
+* Young professionals starting to plan their finances
 
 ## 📋 Planned Requirements
 
@@ -28,11 +28,11 @@ Many students and young professionals don't know where their money goes each mon
 
 This project is a space to practise core BA skills:
 
-- Writing a clear **problem statement** and defining **target users**
-- Turning user needs into **prioritised requirements** (MoSCoW)
-- Sketching **user flows** and simple **wireframes** before building
-- Defining what **success** looks like for the user
+* Writing a clear **problem statement** and defining **target users**
+* Turning user needs into **prioritised requirements** (MoSCoW)
+* Sketching **user flows** and simple **wireframes** before building
+* Defining what **success** looks like for the user
 
 ## 👩‍💻 Author
 
-**Elsa Ngoc Dang** — Bachelor of IT (Business Analysis), Macquarie University · [LinkedIn](https://www.linkedin.com/in/ha-bao-ngoc-dang/)
+**Elsa Ngoc Dang**: Bachelor of IT (Business Analysis), Macquarie University · [LinkedIn](https://www.linkedin.com/in/ha-bao-ngoc-dang/)
